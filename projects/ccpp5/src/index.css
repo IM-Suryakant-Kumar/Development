@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  border: 2px solid gray;
+  border-radius: 10em;
+  width: 80%;
+  max-width: 32rem;
+  padding: 1em;
+  font-size: 2rem;
+}
